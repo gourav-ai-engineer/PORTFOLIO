@@ -1,4 +1,4 @@
-# Gourav Kumar — AI/ML Engineer Portfolio
+# Gourav — AI/ML Engineer Portfolio
 
 A responsive, accessible, single-page portfolio focused on AI/ML engineering, research, and systems building.
 
